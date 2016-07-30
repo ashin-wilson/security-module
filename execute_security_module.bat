@@ -1,0 +1,1 @@
+java -jar "D:/Projects/Timepass/security-module/target/security-module-1.0.jar"
